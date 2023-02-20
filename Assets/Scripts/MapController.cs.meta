@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 743747c08fc155547bbd2ecd95f715cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - superWallPre: {fileID: 6185034214137130808, guid: 454fae47e549e2e438081128d4760a2b,
+      type: 3}
+  - wallPre: {fileID: 617616896142643013, guid: a5ae710d406c0ba47a2b689b38e055f1,
+      type: 3}
+  - doorPre: {fileID: 5390290025427166419, guid: 6f9d5986b52a41345b720aa83345a025,
+      type: 3}
+  - propPre: {fileID: 565279821202752887, guid: aa1e8947bdfe264448b6f95b9c2a847f,
+      type: 3}
+  - enemyPre: {fileID: 13832188521346290, guid: 76d8e67924dc65e48a92f56367765f5e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
